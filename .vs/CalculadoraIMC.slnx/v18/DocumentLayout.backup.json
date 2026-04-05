@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\delmi\\source\\repos\\TechStore\\CalculadoraIMC\\CalculadoraIMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F67F22-13BA-4B8F-B949-D29E4748F13F}|CalculadoraIMC.csproj|c:\\users\\delmi\\source\\repos\\techstore\\calculadoraimc\\calculadoraimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4F67F22-13BA-4B8F-B949-D29E4748F13F}|CalculadoraIMC.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\delmi\\source\\repos\\TechStore\\CalculadoraIMC\\CalculadoraIMC\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\delmi\\source\\repos\\TechStore\\CalculadoraIMC\\CalculadoraIMC\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:01:12.043Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
